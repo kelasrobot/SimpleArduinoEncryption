@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For SimpleArduinoEncryption
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SimpleArduinoEncryption	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+bytesToHex KEYWORD2
+hexToBytes KEYWORD2
+printHex KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+# CONSTANT	LITERAL1
